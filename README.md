@@ -1,2 +1,2 @@
-# Lab-5
+# HeapSort
 Heap Sort
